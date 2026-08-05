@@ -1,16 +1,15 @@
-<h1 align="center">Hola, soy Samuel Daza 👋</h1>
-<h3 align="center">Desarrollador de Software | Estudiante de Ingeniería de Sistemas</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SamuelDaza21/SamuelDaza21/main/header.svg" width="100%" alt="Banner"/>
+</p>
 
 <p align="center">
-  <a href="https://github.com/SamuelDaza21">
-    <img src="https://img.shields.io/badge/GitHub-SamuelDaza21-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:sdaza1945@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sdaza1945@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="tel:+573182651621">
-    <img src="https://img.shields.io/badge/Tel.-3182651621-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Teléfono"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Hola!+Soy+Samuel+Daza+%F0%9F%91%8B;Desarrollador+de+Software;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Python+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript;IA+y+Automatizaci%C3%B3n+%F0%9F%A4%96;Construyendo+soluciones+con+tecnolog%C3%ADa+%F0%9F%9A%80" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SamuelDaza21&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Visitas"/>
+  <img src="https://img.shields.io/github/followers/SamuelDaza21?style=flat-square&color=181717&logo=github&label=Seguidores" alt="Seguidores"/>
+  <img src="https://img.shields.io/github/stars/SamuelDaza21?style=flat-square&color=FDBA74&logo=github&label=Estrellas" alt="Estrellas"/>
 </p>
 
 ---
@@ -27,6 +26,10 @@ Estudiante de **Ingeniería de Sistemas** (Universidad de Cundinamarca) en etapa
 
 ## 🛠️ Habilidades
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,sqlite,mysql,git,github,docker,linux,gitlab&perline=12&theme=dark" alt="Tech Stack"/>
+</p>
+
 **Lenguajes y Frameworks**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -40,14 +43,13 @@ Estudiante de **Ingeniería de Sistemas** (Universidad de Cundinamarca) en etapa
 <p>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
 **Modelado y Procesos**
 <p>
   <img src="https://img.shields.io/badge/UML-FF6C37?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="UML"/>
   <img src="https://img.shields.io/badge/Diagramas%20de%20Actividades-00897B?style=for-the-badge" alt="Diagramas de actividades"/>
-  <img src="https://img.shields.io/badge/Requerimientos-5C6BC0?style=for-the-badge" alt="Requerimientos"/>
+  <img src="https://img.shields.io/badge/Requerimientos%20de%20Software-5C6BC0?style=for-the-badge" alt="Requerimientos"/>
 </p>
 
 **IA y Automatización**
@@ -55,7 +57,7 @@ Estudiante de **Ingeniería de Sistemas** (Universidad de Cundinamarca) en etapa
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
   <img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT"/>
-  <img src="https://img.shields.io/badge/Ingeniería%20de%20Prompts-00A6FB?style=for-the-badge" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/Ingenier%C3%ADa%20de%20Prompts-00A6FB?style=for-the-badge" alt="Prompt Engineering"/>
 </p>
 
 **Herramientas y Entornos**
@@ -64,7 +66,6 @@ Estudiante de **Ingeniería de Sistemas** (Universidad de Cundinamarca) en etapa
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/WSL2-4EAA25?style=for-the-badge&logo=linux&logoColor=white" alt="WSL2"/>
-  <img src="https://img.shields.io/badge/Google%20Suite-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Suite"/>
 </p>
 
 ## 📂 Proyectos Destacados
@@ -91,19 +92,39 @@ Estudiante de **Ingeniería de Sistemas** (Universidad de Cundinamarca) en etapa
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelDaza21&show_icons=true&theme=radical&locale=es" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDaza21&layout=compact&theme=radical&locale=es" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelDaza21&show_icons=true&count_private=true&theme=radical&locale=es&border_radius=12" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDaza21&layout=compact&theme=radical&locale=es&border_radius=12" alt="Top Languages" width="42%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelDaza21&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelDaza21&theme=radical&border_radius=12" alt="GitHub Streak"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelDaza21&theme=react-dark&bg_color=151515&hide_border=true" alt="Activity Graph" width="100%"/>
+</p>
+
+## 🏆 Trofeos
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SamuelDaza21&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
+</p>
+
+## 🐍 Contribuciones
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelDaza21/SamuelDaza21/main/dist/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelDaza21/SamuelDaza21/main/dist/github-snake.svg"/>
+  <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/SamuelDaza21/SamuelDaza21/main/dist/github-snake.svg"/>
+</picture>
 
 ## 📫 Contacto
 
-- 📧 **Email:** [sdaza1945@gmail.com](mailto:sdaza1945@gmail.com)
-- 📱 **Teléfono / WhatsApp:** [3182651621](tel:+573182651621)
-- 💼 **GitHub:** [SamuelDaza21](https://github.com/SamuelDaza21)
+<p align="center">
+  <a href="mailto:sdaza1945@gmail.com"><img src="https://img.shields.io/badge/Gmail-sdaza1945%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wa.me/573182651621"><img src="https://img.shields.io/badge/WhatsApp-3182651621-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://github.com/SamuelDaza21"><img src="https://img.shields.io/badge/GitHub-SamuelDaza21-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
