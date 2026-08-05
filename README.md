@@ -1,0 +1,112 @@
+<h1 align="center">Hola, soy Samuel Daza 👋</h1>
+<h3 align="center">Desarrollador de Software | Estudiante de Ingeniería de Sistemas</h3>
+
+<p align="center">
+  <a href="https://github.com/SamuelDaza21">
+    <img src="https://img.shields.io/badge/GitHub-SamuelDaza21-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:sdaza1945@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sdaza1945@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="tel:+573182651621">
+    <img src="https://img.shields.io/badge/Tel.-3182651621-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Teléfono"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 Sobre mí
+
+Estudiante de **Ingeniería de Sistemas** (Universidad de Cundinamarca) en etapa final de formación, con perfil técnico enfocado en el **desarrollo de software**, **arquitectura de sistemas** y **optimización de procesos** mediante tecnología.
+
+- 🎓 Proyecto de grado: **SIMUS / SIMUS.MJN** — Software de grado (Desarrollador Principal e Investigador)
+- 🧠 Conocimientos prácticos en programación, modelado de datos y diseño de diagramas de arquitectura (UML y flujos de procesos)
+- 🤖 Apasionado por la adopción de **Inteligencia Artificial** y la automatización para resolver cuellos de botella operativos y de negocio
+- 🌎 Inglés **B2** (Certificación Face 2 Face)
+- 🚀 Disponibilidad total para vinculación
+
+## 🛠️ Habilidades
+
+**Lenguajes y Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+**Bases de Datos**
+<p>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+
+**Modelado y Procesos**
+<p>
+  <img src="https://img.shields.io/badge/UML-FF6C37?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="UML"/>
+  <img src="https://img.shields.io/badge/Diagramas%20de%20Actividades-00897B?style=for-the-badge" alt="Diagramas de actividades"/>
+  <img src="https://img.shields.io/badge/Requerimientos-5C6BC0?style=for-the-badge" alt="Requerimientos"/>
+</p>
+
+**IA y Automatización**
+<p>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT"/>
+  <img src="https://img.shields.io/badge/Ingeniería%20de%20Prompts-00A6FB?style=for-the-badge" alt="Prompt Engineering"/>
+</p>
+
+**Herramientas y Entornos**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/WSL2-4EAA25?style=for-the-badge&logo=linux&logoColor=white" alt="WSL2"/>
+  <img src="https://img.shields.io/badge/Google%20Suite-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Suite"/>
+</p>
+
+## 📂 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [SIMUS.MJN_SW](https://github.com/SamuelDaza21/SIMUS.MJN_SW) | Software de grado — sistema de gestión con backend en Python y base de datos SQLite | Python, SQLite |
+| [PKAN](https://github.com/SamuelDaza21/PKAN) | Software de grado presentado al docente | Python |
+| [SciKids](https://github.com/SamuelDaza21/SciKids) | Página web para escuela | JavaScript, HTML, CSS |
+| [Tabla-Periodica](https://github.com/SamuelDaza21/Tabla-periodica) | Proyecto de Química IEM Guavio Bajo | CSS |
+| [Emprendimiento](https://github.com/SamuelDaza21/Emprendimiento) | Proyecto de emprendimiento | TypeScript |
+| [To-Do-List](https://github.com/SamuelDaza21/To-Do-List) | Aplicación de lista de tareas | JavaScript |
+
+## 💼 Experiencia
+
+**Desarrollador Principal e Investigador** — *Universidad de Cundinamarca*
+*Proyecto de Grado e Innovación Técnica: SIMUS / SIMUS.MJN* | Sep 2025 - Presente
+
+- Modelado y diseño de arquitectura mediante diagramas de casos de uso, actividades y modelos UML
+- Desarrollo de la lógica de negocio en **Python** con código estructurado y mantenible
+- Diseño y administración de base de datos relacional con **SQLite**
+- Empaquetado del sistema en ejecutables nativos estables
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelDaza21&show_icons=true&theme=radical&locale=es" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDaza21&layout=compact&theme=radical&locale=es" alt="Top Languages" width="40%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelDaza21&theme=radical" alt="GitHub Streak"/>
+</p>
+
+## 📫 Contacto
+
+- 📧 **Email:** [sdaza1945@gmail.com](mailto:sdaza1945@gmail.com)
+- 📱 **Teléfono / WhatsApp:** [3182651621](tel:+573182651621)
+- 💼 **GitHub:** [SamuelDaza21](https://github.com/SamuelDaza21)
+
+---
+
+<p align="center">
+  <i>Construyendo soluciones que optimizan procesos con tecnología, automatización e inteligencia artificial.</i>
+</p>
