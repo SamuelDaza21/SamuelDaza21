@@ -25,6 +25,33 @@ Estudiante de **Ingeniería de Sistemas** (Universidad de Cundinamarca) en etapa
 
 ---
 
+## 🔝 Proyecto destacado
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🛒%20TIENDA%20TITAN%20—%20E-COMMERCE%20COMPLETO-171b26?style=for-the-badge&labelColor=171b26&color=171b26" alt="Tienda Titan E-Commerce"/>
+</p>
+
+<p align="center">🛒 <b>E-commerce funcional de extremo a extremo</b> con <b>demo 100% en vivo</b>: catálogo de 20 productos, buscador, carrito con cupones, checkout en 3 pasos, confirmación de pedidos y <b>panel de administración</b> con dashboard, métricas y gestión de inventario. Sin frameworks ni dependencias: HTML, CSS y JavaScript puro.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-1b212c?style=flat&logo=html5&logoColor=d4a84b&labelColor=1b212c&color=1b212c" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1b212c?style=flat&logo=css3&logoColor=d4a84b&labelColor=1b212c&color=1b212c" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-JavaScript-1b212c?style=flat&logo=javascript&logoColor=d4a84b&labelColor=1b212c&color=1b212c" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-localStorage-1b212c?style=flat&logo=javascript&logoColor=d4a84b&labelColor=1b212c&color=1b212c" alt="localStorage"/>
+  <img src="https://img.shields.io/badge/-100%25%20responsive-1b212c?style=flat&labelColor=1b212c&color=1b212c" alt="Responsive"/>
+  <img src="https://img.shields.io/badge/-Suite%20de%20pruebas-1b212c?style=flat&logo=jest&logoColor=d4a84b&labelColor=1b212c&color=1b212c" alt="Suite de pruebas"/>
+</p>
+
+<p align="center">
+  <a href="https://samueldaza21.github.io/Tienda-Titan-Ecommerce/"><img src="https://img.shields.io/badge/-🖥️%20Probar%20la%20demo%20en%20vivo-d4a84b?style=flat-square&labelColor=d4a84b&color=d4a84b" alt="Ver demo en vivo"/></a>
+  <a href="https://github.com/SamuelDaza21/Tienda-Titan-Ecommerce/blob/main/README.md"><img src="https://img.shields.io/badge/-Ver%20README-1b212c?style=flat-square&logo=github&logoColor=d4a84b&labelColor=1b212c&color=1b212c" alt="Ver README"/></a>
+  <a href="https://github.com/SamuelDaza21/Tienda-Titan-Ecommerce"><img src="https://img.shields.io/badge/-Repositorio-1b212c?style=flat-square&logo=github&logoColor=d4a84b&labelColor=1b212c&color=1b212c" alt="Repositorio"/></a>
+</p>
+
+> 💡 Recorre el flujo completo de compra en la demo (usa el cupón **`TITAN10`** en el carrito) y revisa el panel de administración en **`admin.html`**.
+
+---
+
 ## 🛠️ Habilidades
 
 <p align="center">
