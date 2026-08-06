@@ -74,8 +74,8 @@ Estudiante de **Ingeniería de Sistemas** (Universidad de Cundinamarca) en etapa
 |----------|-------------|-------------|--------|
 | [OndaXplorer](https://samueldaza21.github.io/OndaXplorer/) | Plataforma educativa interactiva de física: ondas, cinemática, energía y óptica | HTML, CSS, JavaScript | [Ver sitio](https://samueldaza21.github.io/OndaXplorer/) |
 | [Simus Demo](https://github.com/SamuelDaza21/Simus_Demo/blob/main/README.md) | Software de grado — sistema SIMUS | Python | [Ver repositorio](https://github.com/SamuelDaza21/Simus_Demo) |
-| [SciKids](https://samueldaza21.github.io/SciKids/) | Página web para escuela | JavaScript | [Ver sitio](https://samueldaza21.github.io/SciKids/) |
-| [Tabla Periódica](https://samueldaza21.github.io/Tabla-periodica/) | Proyecto de Química IEM Guavio Bajo | CSS | [Ver sitio](https://samueldaza21.github.io/Tabla-periodica/) |
+| [SciKids](https://samueldaza21.github.io/SciKids/ciencias.html) | Página web para escuela | JavaScript | [Ver sitio](https://samueldaza21.github.io/SciKids/ciencias.html) |
+| [Tabla Periódica](https://samueldaza21.github.io/Tabla-periodica/web/) | Proyecto de Química IEM Guavio Bajo | CSS | [Ver sitio](https://samueldaza21.github.io/Tabla-periodica/web/) |
 
 ## 💼 Experiencia
 
