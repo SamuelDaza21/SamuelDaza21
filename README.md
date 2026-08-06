@@ -56,9 +56,9 @@ Estudiante de **Ingeniería de Sistemas** (Universidad de Cundinamarca) en etapa
 
 ## 🚀 Proyectos
 
-| 🌊 **OndaXplorer**<br/><sub>Plataforma educativa interactiva de física: ondas, cinemática, energía y óptica.</sub><br/><br/>`HTML` `CSS` `JavaScript`<br/><br/>[![Ver sitio](https://img.shields.io/badge/-Ver%20sitio-d4a84b?style=flat-square&labelColor=d4a84b&color=d4a84b)](https://samueldaza21.github.io/OndaXplorer/) [![Repositorio](https://img.shields.io/badge/-Repositorio-1b212c?style=flat-square&logo=github&logoColor=d4a84b&labelColor=1b212c&color=1b212c)](https://github.com/SamuelDaza21/OndaXplorer) | 🎮 **SIMUS.MJN — Demo**<br/><sub>Software educativo de comunicación aumentativa con control por movimientos de cabeza y parpadeos.</sub><br/><br/>`Python` `OpenCV` `Webcam`<br/><br/>[![Ver README](https://img.shields.io/badge/-Ver%20README-d4a84b?style=flat-square&labelColor=d4a84b&color=d4a84b)](https://github.com/SamuelDaza21/Simus_Demo/blob/main/README.md) [![Repositorio](https://img.shields.io/badge/-Repositorio-1b212c?style=flat-square&logo=github&logoColor=d4a84b&labelColor=1b212c&color=1b212c)](https://github.com/SamuelDaza21/Simus_Demo) |
+| 🌊 **OndaXplorer**<br/><sub>Plataforma educativa interactiva de física: ondas, cinemática, energía y óptica.</sub><br/><br/>`HTML` `CSS` `JavaScript`<br/><br/>[![Ver sitio](https://img.shields.io/badge/-Ver%20sitio-d4a84b?style=flat-square&labelColor=d4a84b&color=d4a84b)](https://samueldaza21.github.io/OndaXplorer/) [![Ver README](https://img.shields.io/badge/-Ver%20README-1b212c?style=flat-square&logo=github&logoColor=d4a84b&labelColor=1b212c&color=1b212c)](https://github.com/SamuelDaza21/OndaXplorer/blob/main/README.md) | 🎮 **SIMUS.MJN — Demo**<br/><sub>Software educativo de comunicación aumentativa con control por movimientos de cabeza y parpadeos.</sub><br/><br/>`Python` `OpenCV` `Webcam`<br/><br/>[![Ver README](https://img.shields.io/badge/-Ver%20README-d4a84b?style=flat-square&labelColor=d4a84b&color=d4a84b)](https://github.com/SamuelDaza21/Simus_Demo/blob/main/README.md) [![Repositorio](https://img.shields.io/badge/-Repositorio-1b212c?style=flat-square&logo=github&logoColor=d4a84b&labelColor=1b212c&color=1b212c)](https://github.com/SamuelDaza21/Simus_Demo) |
 |---|---|
-| 🚀 **SciKids**<br/><sub>Plataforma educativa para niños: matemáticas, español, ciencias y juegos.</sub><br/><br/>`HTML` `CSS` `JavaScript`<br/><br/>[![Ver sitio](https://img.shields.io/badge/-Ver%20sitio-d4a84b?style=flat-square&labelColor=d4a84b&color=d4a84b)](https://samueldaza21.github.io/SciKids/ciencias.html) [![Repositorio](https://img.shields.io/badge/-Repositorio-1b212c?style=flat-square&logo=github&logoColor=d4a84b&labelColor=1b212c&color=1b212c)](https://github.com/SamuelDaza21/SciKids) | ⚗️ **Tabla Periódica**<br/><sub>Tabla periódica interactiva de los 118 elementos químicos con fichas técnicas.</sub><br/><br/>`HTML` `CSS` `JavaScript`<br/><br/>[![Ver sitio](https://img.shields.io/badge/-Ver%20sitio-d4a84b?style=flat-square&labelColor=d4a84b&color=d4a84b)](https://samueldaza21.github.io/Tabla-periodica/web/) [![Repositorio](https://img.shields.io/badge/-Repositorio-1b212c?style=flat-square&logo=github&logoColor=d4a84b&labelColor=1b212c&color=1b212c)](https://github.com/SamuelDaza21/Tabla-periodica) |
+| 🚀 **SciKids**<br/><sub>Plataforma educativa para niños: matemáticas, español, ciencias y juegos.</sub><br/><br/>`HTML` `CSS` `JavaScript`<br/><br/>[![Ver sitio](https://img.shields.io/badge/-Ver%20sitio-d4a84b?style=flat-square&labelColor=d4a84b&color=d4a84b)](https://samueldaza21.github.io/SciKids/ciencias.html) [![Ver README](https://img.shields.io/badge/-Ver%20README-1b212c?style=flat-square&logo=github&logoColor=d4a84b&labelColor=1b212c&color=1b212c)](https://github.com/SamuelDaza21/SciKids/blob/main/README.md) | ⚗️ **Tabla Periódica**<br/><sub>Tabla periódica interactiva de los 118 elementos químicos con fichas técnicas.</sub><br/><br/>`HTML` `CSS` `JavaScript`<br/><br/>[![Ver sitio](https://img.shields.io/badge/-Ver%20sitio-d4a84b?style=flat-square&labelColor=d4a84b&color=d4a84b)](https://samueldaza21.github.io/Tabla-periodica/web/) [![Ver README](https://img.shields.io/badge/-Ver%20README-1b212c?style=flat-square&logo=github&logoColor=d4a84b&labelColor=1b212c&color=1b212c)](https://github.com/SamuelDaza21/Tabla-periodica/blob/main/README.md) |
 
 ---
 
@@ -99,20 +99,11 @@ Estudiante de **Ingeniería de Sistemas** (Universidad de Cundinamarca) en etapa
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelDaza21&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=d4a84b&icon_color=d4a84b&text_color=e6edf3&border_color=21262d&locale=es" alt="Estadísticas de GitHub" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDaza21&layout=compact&hide_border=true&bg_color=0d1117&title_color=d4a84b&text_color=e6edf3&border_color=21262d&locale=es" alt="Lenguajes más usados" width="42%"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelDaza21&hide_border=true&background=0d1117&ring=d4a84b&fire=d4a84b&currStreakNum=e6edf3&sideNums=8b949e&currStreakLabel=d4a84b&sideLabels=8b949e&dates=8b949e" alt="Racha de contribuciones"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelDaza21&hide_border=true&bg_color=0d1117&color=d4a84b&line=d4a84b&point=e6edf3&area_color=d4a84b&area=true" alt="Gráfico de actividad" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamuelDaza21&theme=onedark&no-frame=true&row=2&column=4&margin-w=12&margin-h=12" alt="Trofeos"/>
 </p>
 
 ---
