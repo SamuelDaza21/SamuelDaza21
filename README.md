@@ -70,14 +70,11 @@ Estudiante de **Ingeniería de Sistemas** (Universidad de Cundinamarca) en etapa
 
 ## 📂 Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [SIMUS.MJN_SW](https://github.com/SamuelDaza21/SIMUS.MJN_SW) | Software de grado — sistema de gestión con backend en Python y base de datos SQLite | Python, SQLite |
-| [PKAN](https://github.com/SamuelDaza21/PKAN) | Software de grado presentado al docente | Python |
-| [SciKids](https://github.com/SamuelDaza21/SciKids) | Página web para escuela | JavaScript, HTML, CSS |
-| [Tabla-Periodica](https://github.com/SamuelDaza21/Tabla-periodica) | Proyecto de Química IEM Guavio Bajo | CSS |
-| [Emprendimiento](https://github.com/SamuelDaza21/Emprendimiento) | Proyecto de emprendimiento | TypeScript |
-| [To-Do-List](https://github.com/SamuelDaza21/To-Do-List) | Aplicación de lista de tareas | JavaScript |
+| Proyecto | Descripción | Tecnologías | Enlace |
+|----------|-------------|-------------|--------|
+| [Simus Documentación](https://samueldaza21.github.io/Simus_Documentacion/) | Software de grado para presentar al docente | HTML | [Ver sitio](https://samueldaza21.github.io/Simus_Documentacion/) |
+| [SciKids](https://samueldaza21.github.io/SciKids/) | Página web para escuela | JavaScript | [Ver sitio](https://samueldaza21.github.io/SciKids/) |
+| [Tabla Periódica](https://samueldaza21.github.io/Tabla-periodica/) | Proyecto de Química IEM Guavio Bajo | CSS | [Ver sitio](https://samueldaza21.github.io/Tabla-periodica/) |
 
 ## 💼 Experiencia
 
