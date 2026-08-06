@@ -127,7 +127,7 @@ Estudiante de **Ingeniería de Sistemas** (Universidad de Cundinamarca) en etapa
   <a href="https://github.com/SamuelDaza21"><img src="https://img.shields.io/badge/-GitHub-1b212c?style=flat-square&logo=github&logoColor=d4a84b&labelColor=1b212c&color=1b212c" alt="GitHub"/></a>
 </p>
 
-<p align="center">📍 Cl 23 #7-13, Fusagasugá · Cundinamarca, Colombia</p>
+<p align="center">📍Cundinamarca, Colombia</p>
 
 ---
 
