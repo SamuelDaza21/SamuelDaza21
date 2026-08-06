@@ -28,7 +28,9 @@ Estudiante de **Ingeniería de Sistemas** (Universidad de Cundinamarca) en etapa
 ## 🔝 Proyecto destacado
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🛒%20TIENDA%20TITAN%20—%20E-COMMERCE%20COMPLETO-171b26?style=for-the-badge&labelColor=171b26&color=171b26" alt="Tienda Titan E-Commerce"/>
+  <a href="https://samueldaza21.github.io/Tienda-Titan-Ecommerce/">
+    <img src="https://raw.githubusercontent.com/SamuelDaza21/Tienda-Titan-Ecommerce/main/assets/titan-banner.svg" width="100%" alt="Tienda Titan — E-Commerce completo (Proyecto destacado)"/>
+  </a>
 </p>
 
 <p align="center">🛒 <b>E-commerce funcional de extremo a extremo</b> con <b>demo 100% en vivo</b>: catálogo de 20 productos, buscador, carrito con cupones, checkout en 3 pasos, confirmación de pedidos y <b>panel de administración</b> con dashboard, métricas y gestión de inventario. Sin frameworks ni dependencias: HTML, CSS y JavaScript puro.</p>
