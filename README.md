@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?duration=3200&pause=900&color=D4A84B&center=true&vCenter=true&multiline=false&width=660&height=45&lines=Hola!+Soy+Samuel+Daza;Desarrollador+de+Software;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Python+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript;IA+y+Automatizaci%C3%B3n;Construyendo+soluciones+con+tecnolog%C3%ADa" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?duration=3200&pause=900&color=D4A84B&center=true&vCenter=true&multiline=false&width=660&height=45&lines=Hola!+Soy+Samuel+Daza;Desarrollador+de+Software;Ingenier%C3%ADa+de+Sistemas+%E2%80%A2+U.%20de+Cundinamarca;Python+%E2%80%A2+JavaScript+%E2%80%A2+HTML5+%E2%80%A2+CSS3;SQLite+%E2%80%A2+MySQL+%E2%80%A2+UML;IA+y+Automatizaci%C3%B3n;Construyendo+soluciones+con+tecnolog%C3%ADa" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
     <li>🧠 Programación, modelado de datos y diagramas de arquitectura (UML y flujos de procesos)</li>
     <li>🤖 Inteligencia Artificial y automatización para resolver cuellos de botella operativos y de negocio</li>
     <li>🌎 Inglés <b style="color:#d4a84b">B2</b> (Certificación Face 2 Face)</li>
-    <li>🚀 Disponibilidad total para vinculación</li>
+    <li>🚀 Disponibilidad total para vinculación bajo contratos directos y a término indefinido</li>
   </ul>
 </div>
 
@@ -50,18 +50,21 @@
 <div class="sd-card" style="animation-delay: 0.12s">
   <div class="sd-title">Habilidades</div>
   <p align="center" style="margin: 16px 0 6px">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,sqlite,mysql,git,github,docker,linux,gitlab&perline=12&theme=dark" alt="Stack tecnológico"/>
+    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,sqlite,mysql,git,github,docker,linux&perline=10&theme=dark" alt="Stack tecnológico"/>
   </p>
   <p align="center">
     <img src="https://img.shields.io/badge/-Python-1b212c?style=flat&logo=python&logoColor=d4a84b&labelColor=1b212c" alt="Python"/>
     <img src="https://img.shields.io/badge/-JavaScript-1b212c?style=flat&logo=javascript&logoColor=d4a84b&labelColor=1b212c" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/-TypeScript-1b212c?style=flat&logo=typescript&logoColor=d4a84b&labelColor=1b212c" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/-HTML5-1b212c?style=flat&logo=html5&logoColor=d4a84b&labelColor=1b212c" alt="HTML5"/>
     <img src="https://img.shields.io/badge/-CSS3-1b212c?style=flat&logo=css3&logoColor=d4a84b&labelColor=1b212c" alt="CSS3"/>
     <img src="https://img.shields.io/badge/-SQLite-1b212c?style=flat&logo=sqlite&logoColor=d4a84b&labelColor=1b212c" alt="SQLite"/>
     <img src="https://img.shields.io/badge/-MySQL-1b212c?style=flat&logo=mysql&logoColor=d4a84b&labelColor=1b212c" alt="MySQL"/>
     <img src="https://img.shields.io/badge/-Git-1b212c?style=flat&logo=git&logoColor=d4a84b&labelColor=1b212c" alt="Git"/>
     <img src="https://img.shields.io/badge/-Docker-1b212c?style=flat&logo=docker&logoColor=d4a84b&labelColor=1b212c" alt="Docker"/>
+    <img src="https://img.shields.io/badge/-WSL2-1b212c?style=flat&logo=linux&logoColor=d4a84b&labelColor=1b212c" alt="WSL2"/>
+    <img src="https://img.shields.io/badge/-SQL-1b212c?style=flat&logo=sqlite&logoColor=d4a84b&labelColor=1b212c" alt="SQL"/>
+    <img src="https://img.shields.io/badge/-WordPress-1b212c?style=flat&logo=wordpress&logoColor=d4a84b&labelColor=1b212c" alt="WordPress"/>
+    <img src="https://img.shields.io/badge/-Google%20Suite-1b212c?style=flat&logo=google&logoColor=d4a84b&labelColor=1b212c" alt="Google Suite"/>
     <img src="https://img.shields.io/badge/-UML-1b212c?style=flat&labelColor=1b212c" alt="UML"/>
     <img src="https://img.shields.io/badge/-Ingeniería%20de%20Prompts-1b212c?style=flat&labelColor=1b212c" alt="Prompt Engineering"/>
     <img src="https://img.shields.io/badge/-Gemini-1b212c?style=flat&logo=googlegemini&logoColor=d4a84b&labelColor=1b212c" alt="Gemini"/>
@@ -149,7 +152,7 @@
 <br/>
 
 <div class="sd-card" style="animation-delay: 0.45s">
-  <div class="sd-title">Experiencia</div>
+  <div class="sd-title">Experiencia — Proyecto de Grado</div>
   <div style="margin-top: 14px">
     <div style="color: #d4a84b; font-weight: 600; font-size: 15px">Desarrollador Principal e Investigador</div>
     <div style="color: #8b949e; font-size: 13px; margin-top: 2px">Universidad de Cundinamarca · Proyecto de Grado e Innovación Técnica: SIMUS / SIMUS.MJN · Sep 2025 — Presente</div>
@@ -164,7 +167,51 @@
 
 <br/>
 
-<div class="sd-card" style="animation-delay: 0.52s">
+<div class="sd-card" style="animation-delay: 0.5s">
+  <div class="sd-title">Experiencia — Desarrollo Web y Asesoría</div>
+  <div style="margin-top: 14px">
+    <div style="color: #d4a84b; font-weight: 600; font-size: 15px">Desarrollador Web y Asesor Técnico</div>
+    <div style="color: #8b949e; font-size: 13px; margin-top: 2px">Acompañamiento a Proyecto de Tesis Doctoral · May 2026 — Jul 2026</div>
+    <ul style="color: #e6edf3; font-size: 14px; line-height: 1.9; margin-top: 12px; padding-left: 20px">
+      <li>Diseño y desarrollo de la <b style="color:#d4a84b">Tabla Periódica Académica</b> para la contextualización de datos locales de la región del Guavio Bajo</li>
+      <li>Programación de la visualización dinámica y estructurada de datos locales para el proceso de investigación</li>
+      <li>Acompañamiento tecnológico continuo en la recolección, sistematización y presentación digital de la información académica</li>
+    </ul>
+  </div>
+</div>
+
+<br/>
+
+<div class="sd-card" style="animation-delay: 0.55s">
+  <div class="sd-title">Experiencia — Desarrollo Web Freelance</div>
+  <div style="margin-top: 14px">
+    <div style="color: #d4a84b; font-weight: 600; font-size: 15px">Desarrollador Web Freelance / Contratista</div>
+    <div style="color: #8b949e; font-size: 13px; margin-top: 2px">Institución Capellanía · Oct 2024 — Dic 2024</div>
+    <ul style="color: #e6edf3; font-size: 14px; line-height: 1.9; margin-top: 12px; padding-left: 20px">
+      <li>Diseño e implementación del sitio web institucional con <b style="color:#d4a84b">WordPress (CMS)</b></li>
+      <li>Administración de dominio, hosting y servidores a través de Hosting Colombia</li>
+      <li>Optimización de la arquitectura del sitio: diseño <b style="color:#d4a84b">responsive</b> y navegación fluida</li>
+    </ul>
+  </div>
+</div>
+
+<br/>
+
+<div class="sd-card" style="animation-delay: 0.6s">
+  <div class="sd-title">Educación</div>
+  <ul style="color: #e6edf3; font-size: 14px; line-height: 1.9; margin-top: 12px; padding-left: 20px">
+    <li>🎓 <b style="color:#d4a84b">Ingeniería de Sistemas</b> (etapa final) — Universidad de Cundinamarca</li>
+    <li>🎓 Bachiller Técnico en Diseño, Corte y Confección (convenio SENA) — IEM Instituto Técnico Industrial</li>
+    <li>📜 Técnico en Control y Calidad de Confección — SENA</li>
+    <li>📜 Curso complementario SENA: Conceptualización del lenguaje de programación C++</li>
+    <li>📜 Certificación Aptitudinal Idioma Extranjero — Academia Face to Face to the Future</li>
+    <li>🌎 Idiomas: Español (nativo) · Inglés intermedio-avanzado (<b style="color:#d4a84b">B2</b>)</li>
+  </ul>
+</div>
+
+<br/>
+
+<div class="sd-card" style="animation-delay: 0.65s">
   <div class="sd-title">Estadísticas de GitHub</div>
   <p align="center" style="margin: 16px 0 0">
     <img src="https://github-readme-stats.vercel.app/api?username=SamuelDaza21&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=d4a84b&icon_color=d4a84b&text_color=e6edf3&border_color=21262d&locale=es" alt="Estadísticas de GitHub" width="48%"/>
@@ -183,7 +230,7 @@
 
 <br/>
 
-<div class="sd-card" style="animation-delay: 0.6s">
+<div class="sd-card" style="animation-delay: 0.72s">
   <div class="sd-title">Contribuciones</div>
   <p align="center" style="margin-top: 12px">
     <picture>
@@ -196,13 +243,14 @@
 
 <br/>
 
-<div class="sd-card" style="animation-delay: 0.67s">
+<div class="sd-card" style="animation-delay: 0.79s">
   <div class="sd-title">Contacto</div>
   <p align="center" style="margin-top: 16px">
     <a class="sd-btn sd-btn-gold" href="mailto:sdaza1945@gmail.com">✉️ sdaza1945@gmail.com</a>
     <a class="sd-btn sd-btn-gold" href="https://wa.me/573182651621">💬 WhatsApp: 3182651621</a>
     <a class="sd-btn" href="https://github.com/SamuelDaza21">GitHub</a>
   </p>
+  <p align="center" style="color: #8b949e; font-size: 13px; margin-top: 10px">📍 Cl 23 #7-13, Fusagasugá · Cundinamarca, Colombia</p>
 </div>
 
 <hr class="sd-sep"/>
