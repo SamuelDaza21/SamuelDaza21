@@ -1,131 +1,212 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SamuelDaza21/SamuelDaza21/main/header.svg" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/SamuelDaza21/SamuelDaza21/main/header.svg" width="100%" alt="Samuel Daza — Desarrollador de Software"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Hola!+Soy+Samuel+Daza+%F0%9F%91%8B;Desarrollador+de+Software;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Python+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript;IA+y+Automatizaci%C3%B3n+%F0%9F%A4%96;Construyendo+soluciones+con+tecnolog%C3%ADa+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?duration=3200&pause=900&color=D4A84B&center=true&vCenter=true&multiline=false&width=660&height=45&lines=Hola!+Soy+Samuel+Daza;Desarrollador+de+Software;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Python+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript;IA+y+Automatizaci%C3%B3n;Construyendo+soluciones+con+tecnolog%C3%ADa" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SamuelDaza21&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Visitas"/>
-  <img src="https://img.shields.io/github/followers/SamuelDaza21?style=flat-square&color=181717&logo=github&label=Seguidores" alt="Seguidores"/>
-  <img src="https://img.shields.io/github/stars/SamuelDaza21?style=flat-square&color=FDBA74&logo=github&label=Estrellas" alt="Estrellas"/>
+  <img src="https://komarev.com/ghpvc/?username=SamuelDaza21&color=21262d&style=flat-square&labelColor=161b22&label=Visitas" alt="Visitas al perfil"/>
+  <img src="https://img.shields.io/github/followers/SamuelDaza21?style=flat-square&color=21262d&labelColor=161b22&logo=github&logoColor=d4a84b&label=Seguidores" alt="Seguidores"/>
+  <img src="https://img.shields.io/github/stars/SamuelDaza21?style=flat-square&color=21262d&labelColor=161b22&logo=github&logoColor=d4a84b&label=Estrellas" alt="Estrellas"/>
 </p>
+
+<style>
+  @keyframes sdFadeInUp { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
+  @keyframes sdFadeIn { from { opacity: 0; } to { opacity: 1; } }
+  @keyframes sdBreath { 0%, 100% { box-shadow: 0 0 0 0 rgba(212,168,75,0); } 50% { box-shadow: 0 0 26px 2px rgba(212,168,75,0.14); } }
+  .sd-card { background: #161b22; border: 1px solid #21262d; border-radius: 14px; padding: 22px 26px; animation: sdFadeInUp 0.7s ease both; }
+  .sd-card:hover { border-color: #d4a84b; transform: translateY(-3px); box-shadow: 0 10px 34px -12px rgba(212,168,75,0.28); transition: all 0.3s ease; }
+  .sd-title { color: #d4a84b; font-size: 12px; letter-spacing: 3px; text-transform: uppercase; font-weight: 600; }
+  .sd-sep { height: 1px; background: linear-gradient(90deg, transparent, #d4a84b66, transparent); border: 0; }
+  .sd-tag { display: inline-block; background: #1b212c; color: #9da7b3; font-size: 11px; padding: 3px 10px; border-radius: 20px; margin: 2px 4px 2px 0; }
+  .sd-btn { display: inline-block; padding: 7px 15px; margin: 4px 8px 4px 0; border-radius: 8px; border: 1px solid #21262d; color: #e6edf3; text-decoration: none; font-size: 13px; transition: all 0.25s ease; }
+  .sd-btn:hover { border-color: #d4a84b; color: #d4a84b; box-shadow: 0 0 16px -3px rgba(212,168,75,0.4); }
+  .sd-btn-gold { background: #d4a84b; color: #0d1117; border-color: #d4a84b; font-weight: 600; }
+  .sd-btn-gold:hover { background: #e0b95f; color: #0d1117; border-color: #e0b95f; }
+  .sd-proj { background: #161b22; border: 1px solid #21262d; border-radius: 14px; padding: 20px 22px; height: 100%; animation: sdFadeInUp 0.7s ease both; }
+  .sd-proj:hover { border-color: #d4a84b; transform: translateY(-4px); box-shadow: 0 14px 38px -12px rgba(212,168,75,0.3); transition: all 0.3s ease; }
+</style>
 
 ---
 
-## 👨‍💻 Sobre mí
+<div class="sd-card" style="animation-delay: 0.05s">
+  <div class="sd-title">Sobre mí</div>
+  <p style="margin-top: 12px; color: #e6edf3; font-size: 15px; line-height: 1.7">
+    Estudiante de <b style="color:#d4a84b">Ingeniería de Sistemas</b> (Universidad de Cundinamarca) en etapa final de formación, con un perfil técnico enfocado en el desarrollo de software, la arquitectura de sistemas y la optimización de procesos mediante tecnología.
+  </p>
+  <ul style="color: #e6edf3; font-size: 14px; line-height: 1.9; margin-top: 10px; padding-left: 20px">
+    <li>🎓 Proyecto de grado: <b style="color:#d4a84b">SIMUS / SIMUS.MJN</b> — software de grado (Desarrollador Principal e Investigador)</li>
+    <li>🧠 Programación, modelado de datos y diagramas de arquitectura (UML y flujos de procesos)</li>
+    <li>🤖 Inteligencia Artificial y automatización para resolver cuellos de botella operativos y de negocio</li>
+    <li>🌎 Inglés <b style="color:#d4a84b">B2</b> (Certificación Face 2 Face)</li>
+    <li>🚀 Disponibilidad total para vinculación</li>
+  </ul>
+</div>
 
-Estudiante de **Ingeniería de Sistemas** (Universidad de Cundinamarca) en etapa final de formación, con perfil técnico enfocado en el **desarrollo de software**, **arquitectura de sistemas** y **optimización de procesos** mediante tecnología.
+<br/>
 
-- 🎓 Proyecto de grado: **SIMUS / SIMUS.MJN** — Software de grado (Desarrollador Principal e Investigador)
-- 🧠 Conocimientos prácticos en programación, modelado de datos y diseño de diagramas de arquitectura (UML y flujos de procesos)
-- 🤖 Apasionado por la adopción de **Inteligencia Artificial** y la automatización para resolver cuellos de botella operativos y de negocio
-- 🌎 Inglés **B2** (Certificación Face 2 Face)
-- 🚀 Disponibilidad total para vinculación
+<div class="sd-card" style="animation-delay: 0.12s">
+  <div class="sd-title">Habilidades</div>
+  <p align="center" style="margin: 16px 0 6px">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,sqlite,mysql,git,github,docker,linux,gitlab&perline=12&theme=dark" alt="Stack tecnológico"/>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/-Python-1b212c?style=flat&logo=python&logoColor=d4a84b&labelColor=1b212c" alt="Python"/>
+    <img src="https://img.shields.io/badge/-JavaScript-1b212c?style=flat&logo=javascript&logoColor=d4a84b&labelColor=1b212c" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/-TypeScript-1b212c?style=flat&logo=typescript&logoColor=d4a84b&labelColor=1b212c" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/-HTML5-1b212c?style=flat&logo=html5&logoColor=d4a84b&labelColor=1b212c" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/-CSS3-1b212c?style=flat&logo=css3&logoColor=d4a84b&labelColor=1b212c" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/-SQLite-1b212c?style=flat&logo=sqlite&logoColor=d4a84b&labelColor=1b212c" alt="SQLite"/>
+    <img src="https://img.shields.io/badge/-MySQL-1b212c?style=flat&logo=mysql&logoColor=d4a84b&labelColor=1b212c" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/-Git-1b212c?style=flat&logo=git&logoColor=d4a84b&labelColor=1b212c" alt="Git"/>
+    <img src="https://img.shields.io/badge/-Docker-1b212c?style=flat&logo=docker&logoColor=d4a84b&labelColor=1b212c" alt="Docker"/>
+    <img src="https://img.shields.io/badge/-UML-1b212c?style=flat&labelColor=1b212c" alt="UML"/>
+    <img src="https://img.shields.io/badge/-Ingeniería%20de%20Prompts-1b212c?style=flat&labelColor=1b212c" alt="Prompt Engineering"/>
+    <img src="https://img.shields.io/badge/-Gemini-1b212c?style=flat&logo=googlegemini&logoColor=d4a84b&labelColor=1b212c" alt="Gemini"/>
+    <img src="https://img.shields.io/badge/-Claude-1b212c?style=flat&logo=anthropic&logoColor=d4a84b&labelColor=1b212c" alt="Claude"/>
+    <img src="https://img.shields.io/badge/-GPT-1b212c?style=flat&logo=openai&logoColor=d4a84b&labelColor=1b212c" alt="GPT"/>
+  </p>
+</div>
 
-## 🛠️ Habilidades
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,sqlite,mysql,git,github,docker,linux,gitlab&perline=12&theme=dark" alt="Tech Stack"/>
-</p>
+<div class="sd-card" style="animation-delay: 0.19s">
+  <div class="sd-title">Proyectos</div>
+  <table style="width: 100%; border-collapse: separate; border-spacing: 12px 12px; margin-top: 8px">
+    <tr>
+      <td style="width: 50%; padding: 0; border: 0">
+        <div class="sd-proj" style="animation-delay: 0.25s">
+          <div style="display: flex; align-items: center; gap: 10px">
+            <span style="font-size: 22px">🌊</span>
+            <b style="color: #e6edf3; font-size: 16px">OndaXplorer</b>
+          </div>
+          <p style="color: #8b949e; font-size: 13px; margin: 8px 0 12px; line-height: 1.6">Plataforma educativa interactiva de física: ondas, cinemática, energía y óptica.</p>
+          <div>
+            <span class="sd-tag">HTML</span><span class="sd-tag">CSS</span><span class="sd-tag">JavaScript</span>
+          </div>
+          <div style="margin-top: 16px">
+            <a class="sd-btn sd-btn-gold" href="https://samueldaza21.github.io/OndaXplorer/">Ver sitio</a>
+            <a class="sd-btn" href="https://github.com/SamuelDaza21/OndaXplorer">Repositorio</a>
+          </div>
+        </div>
+      </td>
+      <td style="width: 50%; padding: 0; border: 0">
+        <div class="sd-proj" style="animation-delay: 0.3s">
+          <div style="display: flex; align-items: center; gap: 10px">
+            <span style="font-size: 22px">🎮</span>
+            <b style="color: #e6edf3; font-size: 16px">SIMUS.MJN — Demo</b>
+          </div>
+          <p style="color: #8b949e; font-size: 13px; margin: 8px 0 12px; line-height: 1.6">Software educativo de comunicación aumentativa con control por movimientos de cabeza y parpadeos.</p>
+          <div>
+            <span class="sd-tag">Python</span><span class="sd-tag">OpenCV</span><span class="sd-tag">Webcam</span>
+          </div>
+          <div style="margin-top: 16px">
+            <a class="sd-btn sd-btn-gold" href="https://github.com/SamuelDaza21/Simus_Demo/blob/main/README.md">Ver README</a>
+            <a class="sd-btn" href="https://github.com/SamuelDaza21/Simus_Demo">Repositorio</a>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 50%; padding: 0; border: 0">
+        <div class="sd-proj" style="animation-delay: 0.35s">
+          <div style="display: flex; align-items: center; gap: 10px">
+            <span style="font-size: 22px">🚀</span>
+            <b style="color: #e6edf3; font-size: 16px">SciKids</b>
+          </div>
+          <p style="color: #8b949e; font-size: 13px; margin: 8px 0 12px; line-height: 1.6">Plataforma educativa para niños: matemáticas, español, ciencias y juegos.</p>
+          <div>
+            <span class="sd-tag">HTML</span><span class="sd-tag">CSS</span><span class="sd-tag">JavaScript</span>
+          </div>
+          <div style="margin-top: 16px">
+            <a class="sd-btn sd-btn-gold" href="https://samueldaza21.github.io/SciKids/ciencias.html">Ver sitio</a>
+            <a class="sd-btn" href="https://github.com/SamuelDaza21/SciKids">Repositorio</a>
+          </div>
+        </div>
+      </td>
+      <td style="width: 50%; padding: 0; border: 0">
+        <div class="sd-proj" style="animation-delay: 0.4s">
+          <div style="display: flex; align-items: center; gap: 10px">
+            <span style="font-size: 22px">⚗️</span>
+            <b style="color: #e6edf3; font-size: 16px">Tabla Periódica</b>
+          </div>
+          <p style="color: #8b949e; font-size: 13px; margin: 8px 0 12px; line-height: 1.6">Tabla periódica interactiva de los 118 elementos químicos con fichas técnicas.</p>
+          <div>
+            <span class="sd-tag">HTML</span><span class="sd-tag">CSS</span><span class="sd-tag">JavaScript</span>
+          </div>
+          <div style="margin-top: 16px">
+            <a class="sd-btn sd-btn-gold" href="https://samueldaza21.github.io/Tabla-periodica/web/">Ver sitio</a>
+            <a class="sd-btn" href="https://github.com/SamuelDaza21/Tabla-periodica">Repositorio</a>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-**Lenguajes y Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+<br/>
 
-**Bases de Datos**
-<p>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
+<div class="sd-card" style="animation-delay: 0.45s">
+  <div class="sd-title">Experiencia</div>
+  <div style="margin-top: 14px">
+    <div style="color: #d4a84b; font-weight: 600; font-size: 15px">Desarrollador Principal e Investigador</div>
+    <div style="color: #8b949e; font-size: 13px; margin-top: 2px">Universidad de Cundinamarca · Proyecto de Grado e Innovación Técnica: SIMUS / SIMUS.MJN · Sep 2025 — Presente</div>
+    <ul style="color: #e6edf3; font-size: 14px; line-height: 1.9; margin-top: 12px; padding-left: 20px">
+      <li>Modelado y diseño de arquitectura con diagramas de casos de uso, actividades y modelos UML</li>
+      <li>Desarrollo de la lógica de negocio en <b style="color:#d4a84b">Python</b> con código estructurado y mantenible</li>
+      <li>Diseño y administración de base de datos relacional con <b style="color:#d4a84b">SQLite</b></li>
+      <li>Empaquetado del sistema en ejecutables nativos estables</li>
+    </ul>
+  </div>
+</div>
 
-**Modelado y Procesos**
-<p>
-  <img src="https://img.shields.io/badge/UML-FF6C37?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="UML"/>
-  <img src="https://img.shields.io/badge/Diagramas%20de%20Actividades-00897B?style=for-the-badge" alt="Diagramas de actividades"/>
-  <img src="https://img.shields.io/badge/Requerimientos%20de%20Software-5C6BC0?style=for-the-badge" alt="Requerimientos"/>
-</p>
+<br/>
 
-**IA y Automatización**
-<p>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT"/>
-  <img src="https://img.shields.io/badge/Ingenier%C3%ADa%20de%20Prompts-00A6FB?style=for-the-badge" alt="Prompt Engineering"/>
-</p>
+<div class="sd-card" style="animation-delay: 0.52s">
+  <div class="sd-title">Estadísticas de GitHub</div>
+  <p align="center" style="margin: 16px 0 0">
+    <img src="https://github-readme-stats.vercel.app/api?username=SamuelDaza21&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=d4a84b&icon_color=d4a84b&text_color=e6edf3&border_color=21262d&locale=es" alt="Estadísticas de GitHub" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDaza21&layout=compact&hide_border=true&bg_color=0d1117&title_color=d4a84b&text_color=e6edf3&border_color=21262d&locale=es" alt="Lenguajes más usados" width="42%"/>
+  </p>
+  <p align="center" style="margin: 12px 0 0">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelDaza21&hide_border=true&background=0d1117&ring=d4a84b&fire=d4a84b&currStreakNum=e6edf3&sideNums=8b949e&currStreakLabel=d4a84b&sideLabels=8b949e&dates=8b949e" alt="Racha de contribuciones"/>
+  </p>
+  <p align="center" style="margin: 12px 0 0">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelDaza21&hide_border=true&bg_color=0d1117&color=d4a84b&line=d4a84b&point=e6edf3&area_color=d4a84b&area=true" alt="Gráfico de actividad" width="100%"/>
+  </p>
+  <p align="center" style="margin: 14px 0 0">
+    <img src="https://github-profile-trophy.vercel.app/?username=SamuelDaza21&theme=onedark&no-frame=true&row=2&column=4&margin-w=12&margin-h=12" alt="Trofeos"/>
+  </p>
+</div>
 
-**Herramientas y Entornos**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/WSL2-4EAA25?style=for-the-badge&logo=linux&logoColor=white" alt="WSL2"/>
-</p>
+<br/>
 
-## 📂 Proyectos Destacados
+<div class="sd-card" style="animation-delay: 0.6s">
+  <div class="sd-title">Contribuciones</div>
+  <p align="center" style="margin-top: 12px">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelDaza21/SamuelDaza21/main/dist/github-snake-dark.svg"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelDaza21/SamuelDaza21/main/dist/github-snake.svg"/>
+      <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/SamuelDaza21/SamuelDaza21/main/dist/github-snake.svg"/>
+    </picture>
+  </p>
+</div>
 
-| Proyecto | Descripción | Tecnologías | Enlace |
-|----------|-------------|-------------|--------|
-| [OndaXplorer](https://samueldaza21.github.io/OndaXplorer/) | Plataforma educativa interactiva de física: ondas, cinemática, energía y óptica | HTML, CSS, JavaScript | [Ver sitio](https://samueldaza21.github.io/OndaXplorer/) |
-| [Simus Demo](https://github.com/SamuelDaza21/Simus_Demo/blob/main/README.md) | Software de grado — sistema SIMUS | Python | [Ver repositorio](https://github.com/SamuelDaza21/Simus_Demo) |
-| [SciKids](https://samueldaza21.github.io/SciKids/ciencias.html) | Página web para escuela | JavaScript | [Ver sitio](https://samueldaza21.github.io/SciKids/ciencias.html) |
-| [Tabla Periódica](https://samueldaza21.github.io/Tabla-periodica/web/) | Proyecto de Química IEM Guavio Bajo | CSS | [Ver sitio](https://samueldaza21.github.io/Tabla-periodica/web/) |
+<br/>
 
-## 💼 Experiencia
+<div class="sd-card" style="animation-delay: 0.67s">
+  <div class="sd-title">Contacto</div>
+  <p align="center" style="margin-top: 16px">
+    <a class="sd-btn sd-btn-gold" href="mailto:sdaza1945@gmail.com">✉️ sdaza1945@gmail.com</a>
+    <a class="sd-btn sd-btn-gold" href="https://wa.me/573182651621">💬 WhatsApp: 3182651621</a>
+    <a class="sd-btn" href="https://github.com/SamuelDaza21">GitHub</a>
+  </p>
+</div>
 
-**Desarrollador Principal e Investigador** — *Universidad de Cundinamarca*
-*Proyecto de Grado e Innovación Técnica: SIMUS / SIMUS.MJN* | Sep 2025 - Presente
+<hr class="sd-sep"/>
 
-- Modelado y diseño de arquitectura mediante diagramas de casos de uso, actividades y modelos UML
-- Desarrollo de la lógica de negocio en **Python** con código estructurado y mantenible
-- Diseño y administración de base de datos relacional con **SQLite**
-- Empaquetado del sistema en ejecutables nativos estables
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelDaza21&show_icons=true&count_private=true&theme=radical&locale=es&border_radius=12" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDaza21&layout=compact&theme=radical&locale=es&border_radius=12" alt="Top Languages" width="42%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelDaza21&theme=radical&border_radius=12" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelDaza21&theme=react-dark&bg_color=151515&hide_border=true" alt="Activity Graph" width="100%"/>
-</p>
-
-## 🏆 Trofeos
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamuelDaza21&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
-</p>
-
-## 🐍 Contribuciones
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelDaza21/SamuelDaza21/main/dist/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelDaza21/SamuelDaza21/main/dist/github-snake.svg"/>
-  <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/SamuelDaza21/SamuelDaza21/main/dist/github-snake.svg"/>
-</picture>
-
-## 📫 Contacto
-
-<p align="center">
-  <a href="mailto:sdaza1945@gmail.com"><img src="https://img.shields.io/badge/Gmail-sdaza1945%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://wa.me/573182651621"><img src="https://img.shields.io/badge/WhatsApp-3182651621-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="https://github.com/SamuelDaza21"><img src="https://img.shields.io/badge/GitHub-SamuelDaza21-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
----
-
-<p align="center">
-  <i>Construyendo soluciones que optimizan procesos con tecnología, automatización e inteligencia artificial.</i>
+<p align="center" style="color: #8b949e; font-size: 13px">
+  Construyendo soluciones que optimizan procesos con tecnología, automatización e inteligencia artificial.
 </p>
