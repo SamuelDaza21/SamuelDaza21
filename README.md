@@ -22,7 +22,6 @@ Estudiante de **Ingeniería de Sistemas** (Universidad de Cundinamarca) en etapa
 - 🧠 Programación, modelado de datos y diagramas de arquitectura (UML y flujos de procesos)
 - 🤖 Inteligencia Artificial y automatización para resolver cuellos de botella operativos y de negocio
 - 🌎 Inglés **B2** (Certificación Face 2 Face)
-- 🚀 Disponibilidad total para vinculación (Remoto/Híbrido)
 
 ---
 
