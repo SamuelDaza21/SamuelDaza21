@@ -41,7 +41,7 @@
     <li>🧠 Programación, modelado de datos y diagramas de arquitectura (UML y flujos de procesos)</li>
     <li>🤖 Inteligencia Artificial y automatización para resolver cuellos de botella operativos y de negocio</li>
     <li>🌎 Inglés <b style="color:#d4a84b">B2</b> (Certificación Face 2 Face)</li>
-    <li>🚀 Disponibilidad total para vinculación bajo contratos directos y a término indefinido</li>
+    <li>🚀 Disponibilidad total para vinculación (Remoto/Hibrido)</li>
   </ul>
 </div>
 
